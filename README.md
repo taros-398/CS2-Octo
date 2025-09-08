@@ -80,3 +80,4 @@ Packed with **Aimbot, ESP, Wallhack, Triggerbot, No Recoil, Bunnyhop, Radar** + 
 | **Does Skin Changer save skins?**| Yes, all configs can be saved & restored.      |
 | **Support?**                     | Available via loader community.                |
  
+ 
